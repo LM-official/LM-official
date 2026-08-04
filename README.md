@@ -12,12 +12,30 @@ Hi, I'm **Lorenzo**
 
 # 💻 Tech Stack
 <!-- STACK:START -->
-_Waiting for the first workflow run…_
+
+![C](https://img.shields.io/badge/C-0B9E06?style=for-the-badge)
+![JavaScript](https://img.shields.io/badge/JavaScript-AB7F02?style=for-the-badge)
+![CSS](https://img.shields.io/badge/CSS-019496?style=for-the-badge)
+![HTML](https://img.shields.io/badge/HTML-D80B26?style=for-the-badge)
+![Java](https://img.shields.io/badge/Java-6611D4?style=for-the-badge)
+![Makefile](https://img.shields.io/badge/Makefile-62950A?style=for-the-badge)
+![Python](https://img.shields.io/badge/Python-DA0BF1?style=for-the-badge)
+![TypeScript](https://img.shields.io/badge/TypeScript-099D49?style=for-the-badge)
+
 <!-- STACK:END -->
 
 # 🚀 Projects developed
 <!-- PROJECTS:START -->
-_Waiting for the first workflow run…_
+
+| Project | What it is | Stack |
+| :--- | :--- | :--- |
+| **[Link-Map](https://github.com/LM-official/Link-Map)** | 🗺️ A personal knowledge base — a digital garden of interlinked notes, published as an interactive graph with Quartz. | `TypeScript` `JavaScript` |
+| **[Finger-Slicer](https://github.com/LM-official/Finger-Slicer)** | 🖐️ A webcam Fruit-Ninja alike game where your fingertip is the blade and any photo becomes the fruit | `Python` |
+| **[Concrete-Hunters](https://github.com/LM-official/Concrete-Hunters)** | 🌎 Lightweight, dependency-free exploration site — lazy-loaded articles, photo carousels, and password-protected locations (AES-256-GCM). Pure HTML/CSS/JS. | `JavaScript` `HTML` `CSS` |
+| **[JBlackjack](https://github.com/LM-official/JBlackjack)** | 🃏 Blackjack game in pure Java Swing — play against AI opponents with accounts, avatars, stats, level progression, looping soundtracks, and a MVC + Observer architecture. | `Java` |
+| **[Client-Server-Cryptography](https://github.com/LM-official/Client-Server-Cryptography)** | 🔐 Multithreaded XOR block cipher with a TCP client/server in pure C. Encrypts files block-by-block across threads, sends them over the network, and decrypts them in parallel on the server. | `C` `Makefile` |
+| **[C-Precompiler](https://github.com/LM-official/C-Precompiler)** | ⚙️ A dependency-free C preprocessor in pure C: recursively expands quoted #includes, strips comments, and validates identifiers | `C` |
+
 <!-- PROJECTS:END -->
 
 # 📊 GitHub Stats
